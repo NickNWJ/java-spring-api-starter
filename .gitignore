@@ -33,4 +33,4 @@ build/
 .vscode/
 
 # Local dev env configuration (do not commit)
-!../src/main/resources/application-dev.properties
+!**/src/main/resources/application-dev.properties
